@@ -1,0 +1,6 @@
+{
+  "name": "DEHA",
+  "description": "Modern premium e-commerce platform for fashion, accessories, and lifestyle essentials with an AI interactive shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
