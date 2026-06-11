@@ -202,7 +202,7 @@ export const PRODUCTS: Product[] = [
   // KIDS' FASHION
   {
     id: "k-1",
-    name: "Organic Cotton Unisex Overalls",
+    name: "kids frock",
     description: "Ultra-comfortable lightweight overalls in certified GOTS organic waffle-knit cotton. Stretch side bands and sturdy wood buttons for super simple diaper swaps.",
     details: [
       "100% Certified Organic Waffle Cotton",
@@ -215,7 +215,7 @@ export const PRODUCTS: Product[] = [
     rating: 4.8,
     ratingCount: 42,
     images: [
-      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?q=80&w=800&auto=format&fit=crop",
+      "https://files.catbox.moe/zrqqui.jpg",
       "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?q=80&w=800&auto=format&fit=crop"
     ],
     category: "Fashion",
