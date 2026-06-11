@@ -256,7 +256,7 @@ export default function App() {
       </main>
 
       {/* FLOAT CONCIERGE CHATBOT BOT */}
-      <AIChatbot onSelectProduct={setSelectedProduct} />
+      <AIChatbot onSelectProduct={setSelectedProduct} onAddToCartDirect={handleAddToCartDirect} />
 
       {/* GLOBAL FOOTER COMPONENT */}
       <Footer setActiveTab={setActiveTab} />
