@@ -87,7 +87,7 @@ export const PRODUCTS: Product[] = [
     rating: 4.7,
     ratingCount: 65,
     images: [
-      "https://images.unsplash.com/photo-1548624149-f9c169188df1?q=80&w=800&auto=format&fit=crop",
+      "https://www.magnific.com/photos/woman",
       "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=800&auto=format&fit=crop"
     ],
     category: "Fashion",
